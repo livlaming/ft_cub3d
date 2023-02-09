@@ -1,0 +1,17 @@
+R 800 600
+
+NO ./maps_that_fail/bitmap-N.png
+EA ./maps_that_fail/bitmap-E.png
+SO ./maps_that_fail/bitmap-S.png
+WE ./maps_that_fail/bitmap-W.png
+
+S  ./maps_that_fail/barrel.png
+F  125,100,40
+
+C  25,130,210
+
+111
+
+101
+1N1
+111

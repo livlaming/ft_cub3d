@@ -1,0 +1,22 @@
+F 253   ,100  ,  0    
+C 225, 30, 0
+
+NO ./textures/north.png
+R 3603 3403
+
+EA ./textures/east.png      
+WE ./textures/west.png      
+S ./textures/east.png   
+
+
+SO ./textures/south.png
+
+
+                11111111
+                10000001
+                10000111
+111111111111111110000001
+1N0000000000000000000001
+100002011111111111111111
+10000201                
+11111111                

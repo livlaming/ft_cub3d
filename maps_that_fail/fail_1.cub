@@ -1,0 +1,20 @@
+EA ./maps_that_fail/bitmap-E.png
+SO ./maps_that_fail/bitmap-S.png
+WE ./maps_that_fail/bitmap-W.png
+S  ./maps_that_fail/sprite_barrel.png
+NO ./maps_that_fail/bitmap-N.png
+F  125,100,40
+C  25,130,210
+R         800    600
+
+11111111111111
+
+10000000000001
+10000000100001
+10000000000001
+10000110000001
+10000000000001
+10000000000001
+1000000N000001
+10000000000001
+11111111111111
