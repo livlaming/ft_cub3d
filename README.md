@@ -1,4 +1,4 @@
-# ft_cub3d
+# ft_cub3d 
 
 A simple graphics project inspired by Wolfenstein 3D. 
 
