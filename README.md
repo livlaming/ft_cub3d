@@ -1,8 +1,10 @@
 # ft_cub3d
 
-A simple graphics project inspired by Wolfenstein 3D. With this project we explore raycasting and floodfill.
-We'll be working with a simple graphics library which allows you to do the most basic things for rendering something in screens without any knowledge of X-Window and Cocoa
-minilibx guide: https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
+A simple graphics project inspired by Wolfenstein 3D. 
+
+With this project we explore raycasting and floodfill.
+We'll be working with a simple graphics library which allows you to do the most basic things for rendering something in screens.
+It provides so-called simple window creation, a drawing tool, minimal image functions and a interesting event management system.
 
 ## installation and usage:
 
@@ -32,6 +34,8 @@ Press ```ESC``` or the ```red X button```.
 ```./cub3D ../maps_that_fail/fail_2.cub```
 
 
-### raycasting tutorial: 
 
-https://lodev.org/cgtutor/raycasting.html
+for more information about the minilibx had to use go to: https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
+
+
+
